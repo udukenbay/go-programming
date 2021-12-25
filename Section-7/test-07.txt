@@ -1,0 +1,81 @@
+#1: Go emphasizes ease of programming. If you use the short declaration operator, you do not need to specify the type.
+
+#2: How do computers work? (choose the most correct answer)
+Computers run on electricity. Electricity has two discrete states: on and off. We can use "coding schemes" to store messages 
+associated with different states of on and off. "On" can represent one thing, and "off" can represent sth else. We can then create
+billions of circuits which can be in "on" or "off" states to represent all kinds of things including sound, images, videos, text, and more.
+
+#3: In relation to computers, what do zeros & ones represent? (choose the best answer)
+States of circuit. 1 is on, and 0 is off.
+
+#4: A boolean value is one that is either true or false
+true
+
+#5: If you have 5 porch lights, how many messages can you encode?
+32 (2 >> 5)
+
+#6: The computer power symbol is cleverly a ZERO and a ONE. This is pretty neat as ZERO represents OFF 
+    and ONE represents ON, which is exactly what a power symbol allows you to do - turn something ON and OFF.
+true
+
+#7: "Bit" is an abbreviation of "binary digit"
+true
+
+#8: ON & OFF, 1 & 0, Binary Digits, Bits, and Machine Language are all words used to refer to this idea that, 
+    within a computer, it's all nothing but a bunch of ZERO's and ONE's, or switches that are ON or OFF, 
+    it's all just a bunch of Binary Digits, or Bits, that's the language which computers speak, it's machine language.
+true
+
+#9: circuits, switches, transistors, and even "gates" are all words used to refer to this thing within a computer 
+    that can either be ON or OFF. It's a circuit, it's a switch, it's a gate that can either be OPENED or CLOSED, 
+    it's a transistor - you will learn that people use all of those words to talk about this same thing, 
+    this ability of computers to store ON / OFF states.
+
+#10: The world's most popular text coding scheme today is
+UTF-8
+
+#11: 1000 bytes = 1KB
+
+#12: 1000 GB = 1TB
+
+#13: Consult this link https://en.wikipedia.org/wiki/Transistor_count and then choose the number of transistors 
+    (aka circuits, switches, "lightbulbs" in my porch analogy) which can be found on processors today. 
+    Choose the answer below which is CLOSEST to what is presented on the wikipedia page.
+50+ billion
+
+#14: How many circuits  (aka transistors, switches, "lightbulbs" in my porch analogy) did the Eniac computer have?
+16,000
+
+#15: rune is an alias for int32
+true
+
+#16: byte is an alias for uint8
+true
+
+#17: If you use type int, then the compiler will choose whether int32 or int64 is used. 
+    Another way to say this is that int has implementation-specific sizes.
+
+#18: As a rule of thumb, for numeric types, you should just use "int" for whole numbers (without decimals) 
+    and "float64" for real numbers (with decimals)
+true
+
+#19: A string is a sequence of bytes.
+true
+
+#20: Go source code is always UTF-8.
+true
+
+#21: A string is a sequence of bytes that represent Unicode code points, called runes.
+true
+
+#22: What is a coding scheme?
+a "coding scheme" is a way to have circuits in on/off positions represent sth else, like letters in the alphabet for instance.
+
+#23: What is the number 42 in decimal?
+42
+
+#24: What is the number 42 in binary?
+101010
+
+#25: What is the number 42 in hex?
+2A
