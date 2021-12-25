@@ -19,6 +19,6 @@ func main() {
 	fmt.Println("")
 
 	for i, v := range s {
-		fmt.Println("at index position %d we have hex", i, v)
+		fmt.Println("at index position %d we have hex %#x", i, v)
 	}
 }
