@@ -4,17 +4,14 @@ import "fmt"
 
 //enclosing a variable so that we limit its scope
 
-var x int
-
 func main() {
+	var x int
 	fmt.Println(x)
 	x++
 	fmt.Println(x)
 	foo()
-	fmt.Println(x)
 }
 
 func foo() {
 	fmt.Println("hello")
-	x++
 }
