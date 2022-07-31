@@ -10,6 +10,7 @@ func main() {
 	fmt.Println(i)
 }
 
+//function identifier returns
 func bar() func() int {
 	return func() int {
 		return 211
